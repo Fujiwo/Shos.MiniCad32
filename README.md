@@ -10,6 +10,12 @@ Sample of simple CAD.
 	* View to fit window size
 	* Zoom View
 	* Undo / Redo
+    * Figures
+        * Line
+        * Rectangle
+        * Ellipse
+        * Circle
+        * Text
 
 * Development & Execution Environment
     * Language: C++
