@@ -1,0 +1,1 @@
+# Shos.MiniCad32
