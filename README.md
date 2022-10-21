@@ -1,4 +1,4 @@
-# Shos.MiniCad32
+# [C++/Win32] Shos.MiniCad32
 
 Sample of simple CAD.
 
